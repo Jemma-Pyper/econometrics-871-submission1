@@ -61,8 +61,8 @@ The script uses the pacman manager to ensure all dependencies are installed and 
 * ggplot2, ggrepel: Advanced data visualisation.
 * lubridate: Date-time formatting.
 
-##Plot Interpretation
-###Plot 1: Cumulative confirmed cases over time
+## Plot Interpretation
+### Plot 1: Cumulative confirmed cases over time
 This plot shows the evolution of total COVID-19 cases across the selected countries from 2020 to 2023.
 
 All countries display a clear upward trend, reflecting the cumulative nature of the data. However, there are important differences in both the timing and magnitude of outbreaks:
@@ -75,7 +75,7 @@ South Africa has significantly lower cumulative cases, reflecting either smaller
 
 Overall, the plot highlights heterogeneity in pandemic dynamics across countries, both in scale and in timing of infection waves.
 
-###Plot 2: Deaths vs confirmed cases
+### Plot 2: Deaths vs confirmed cases
 
 This scatter plot compares total deaths and confirmed cases for each country using the most recent available data. It provides a simple cross-country comparison of the severity of outcomes relative to infection levels.
 
